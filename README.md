@@ -14,8 +14,6 @@ I'm **Fauzaan Mohammad**, a Data Engineer with 3+ years of experience designing 
 
 ☁️ Comfortable across AWS, Azure, and GCP, cloud-agnostic by choice
 
-📊 I like clean dashboards almost as much as clean data models
-
 🌱 Always learning something new in the modern data stack
 
 ---
