@@ -1,4 +1,4 @@
-![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Fauzaan%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&v=2)
+# 👋 Hi, I'm Fauzaan Mohammad
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+3%2B+Years+Experience;Building+Reliable%2C+Scalable+Data+Pipelines;Python+%7C+Spark+%7C+Kafka+%7C+Cloud+%7C+dbt)
 
@@ -48,22 +48,12 @@ I'm **Fauzaan Mohammad**, a Data Engineer with 3+ years of experience designing 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FauzaanAhmed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FauzaanAhmed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Followers](https://img.shields.io/github/followers/FauzaanAhmed?style=for-the-badge&logo=github&label=Followers&color=2E9EF7)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FauzaanAhmed&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=FauzaanAhmed&theme=darkhub&no-frame=true&row=1&column=7)
 
 ---
 
 **Let's Connect & Build Something Great with Data 🚀**
 
 [LinkedIn](https://www.linkedin.com/in/fauzaanmd/)
-
-![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&v=2)
