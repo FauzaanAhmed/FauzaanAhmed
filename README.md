@@ -10,7 +10,7 @@
 
 🔧 **What I care about:** data quality, observability, cost optimization, and audit-ready pipelines for regulated workloads.
 
-### My stack and tools :
+# Tech Stack:
 
 <div align="center">
   <table>
@@ -95,7 +95,7 @@
 
 <br>
 
-## Work Experience:
+# Work Experience:
 
 <table>
 <tr>
@@ -177,7 +177,7 @@
 
 <br>
 
-### GitHub Stats :
+# GitHub Stats :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FauzaanAhmed&theme=default" alt="GitHub Streak Stats" />
@@ -185,7 +185,7 @@
 
 <br>
 
-### How to reach me :
+# How to reach me :
 
 <div align="center">
   <table>
