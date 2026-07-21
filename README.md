@@ -36,7 +36,7 @@
         <br />Airflow
       </td>
       <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="44" height="44" />
+        <img src="./assets/logos/dbt.svg" alt="dbt" width="44" height="44" />
         <br />dbt
       </td>
       <td align="center" width="88">
@@ -180,10 +180,7 @@
 ### GitHub Stats :
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FauzaanAhmed&theme=2077B5" alt="GitHub Stats" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FauzaanAhmed&theme=2077B5" alt="Top Languages" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=FauzaanAhmed&theme=default" alt="GitHub Streak Stats" />
 </p>
 
 <br>
