@@ -180,7 +180,8 @@
 # GitHub Stats :
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FauzaanAhmed&theme=default" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FauzaanAhmed&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FauzaanAhmed&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <br>
