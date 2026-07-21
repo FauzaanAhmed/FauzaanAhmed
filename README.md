@@ -180,10 +180,10 @@
 ### GitHub Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FauzaanAhmed&show_icons=true&hide_border=false&include_all_commits=true&count_private=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="GitHub Stats" height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FauzaanAhmed&theme=2077B5" alt="GitHub Stats" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzaanAhmed&layout=compact&hide_border=false&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&langs_count=8" alt="Top Languages" height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FauzaanAhmed&theme=2077B5" alt="Top Languages" height="180"/>
 </p>
 
 <br>
@@ -193,23 +193,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
-        <a href="mailto:fauzaanmd98@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="56" height="56" />
-          <br /><b>Email</b>
-          <br />fauzaanmd98@gmail.com
-        </a>
-      </td>
-      <td align="center" width="140">
+      <td align="center" width="160">
         <a href="https://www.linkedin.com/in/fauzaanmd/">
-          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="56" height="56" />
+          <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="64" height="64" />
           <br /><b>LinkedIn</b>
           <br />fauzaanmd
         </a>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="160">
         <a href="https://github.com/FauzaanAhmed">
-          <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="56" height="56" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="64" height="64" />
           <br /><b>GitHub</b>
           <br />FauzaanAhmed
         </a>
