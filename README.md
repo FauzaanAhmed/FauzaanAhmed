@@ -1,4 +1,4 @@
-![Fauzaan Mohammad Banner](./assets/Banner.png)
+![Fauzaan Mohammad Banner](./assets/Banner.gif)
 
 # About Me:
 
@@ -9,6 +9,91 @@
 💻 **Focus:** Python, SQL, Spark, Kafka, Airflow, and dbt — building ETL/ELT pipelines and cloud data platforms on **AWS** and **GCP**.
 
 🔧 **What I care about:** data quality, observability, cost optimization, and audit-ready pipelines for regulated workloads.
+
+### My stack and tools :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44" />
+        <br />Python
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="44" height="44" />
+        <br />SQL
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="44" height="44" />
+        <br />Spark
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="44" height="44" />
+        <br />Kafka
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="44" height="44" />
+        <br />Airflow
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="44" height="44" />
+        <br />dbt
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="44" height="44" />
+        <br />AWS
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="44" height="44" />
+        <br />GCP
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="44" height="44" />
+        <br />Snowflake
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="44" height="44" />
+        <br />Databricks
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="44" height="44" />
+        <br />Delta Lake
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" height="44" />
+        <br />Docker
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="44" height="44" />
+        <br />Kubernetes
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="44" height="44" />
+        <br />Terraform
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44" />
+        <br />Git
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44" />
+        <br />Redis
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="44" height="44" />
+        <br />Pytest
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="44" height="44" />
+        <br />CI/CD
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ## Work Experience:
 
@@ -89,208 +174,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-### Languages :
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44" />
-        <br />Python
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="44" height="44" />
-        <br />SQL
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="44" height="44" />
-        <br />Scala
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="44" height="44" />
-        <br />Shell
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" />
-        <br />Pandas
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="44" height="44" />
-        <br />NumPy
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="44" height="44" />
-        <br />scikit-learn
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="44" height="44" />
-        <br />Streamlit
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### Cloud :
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="44" height="44" />
-        <br />AWS
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="44" height="44" />
-        <br />GCP
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="44" height="44" />
-        <br />BigQuery
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### Data Storage :
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44" />
-        <br />PostgreSQL
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44" />
-        <br />MySQL
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44" />
-        <br />Redis
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="44" height="44" />
-        <br />Snowflake
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="44" height="44" />
-        <br />DynamoDB
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="44" height="44" />
-        <br />Delta Lake
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="44" height="44" />
-        <br />Databricks
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" alt="HDFS" width="44" height="44" />
-        <br />HDFS
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### Distributed Systems :
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="44" height="44" />
-        <br />Spark
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="44" height="44" />
-        <br />Kafka
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheflink/apacheflink-original.svg" alt="Flink" width="44" height="44" />
-        <br />Flink
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" alt="Hive" width="44" height="44" />
-        <br />Hive
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### ETL & Orchestration :
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="44" height="44" />
-        <br />Airflow
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="44" height="44" />
-        <br />dbt
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/dagster/004044" alt="Dagster" width="44" height="44" />
-        <br />Dagster
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="44" height="44" />
-        <br />Pytest
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### DevOps & BI :
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44" />
-        <br />Git
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" height="44" />
-        <br />Docker
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="44" height="44" />
-        <br />Terraform
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="44" height="44" />
-        <br />GitHub Actions
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="44" height="44" />
-        <br />Power BI
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker" width="44" height="44" />
-        <br />Looker
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
