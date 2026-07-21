@@ -2,11 +2,11 @@
 
 # About Me:
 
-💼 **Currently:** Data Engineer at **Hotkeys Solutions** (Baltimore, MD) — healthcare claims, lakehouse, and governance at scale.
+💼 **Currently:** Data Engineer at **Hotkeys Solutions** — healthcare claims, lakehouse, and governance at scale.
 
 🎓 **Education:** M.S. Computer Science, **UMBC** (GPA 3.9/4.0) · B.Tech, IIIT Jabalpur.
 
-💻 **Focus:** Python, SQL, Spark, Kafka, Airflow, and dbt — building ETL/ELT pipelines and cloud data platforms on **AWS**, **GCP**, and **Azure**.
+💻 **Focus:** Python, SQL, Spark, Kafka, Airflow, and dbt — building ETL/ELT pipelines and cloud data platforms on **AWS**.
 
 🔧 **What I care about:** data quality, observability, cost optimization, and audit-ready pipelines for regulated workloads.
 
