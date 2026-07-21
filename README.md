@@ -1,4 +1,4 @@
-![Fauzaan Mohammad Banner](./assets/Banner.gif)
+![Fauzaan Mohammad Banner](./assets/Banner.png)
 
 # About Me:
 
@@ -6,89 +6,104 @@
 
 🎓 **Education:** M.S. Computer Science, **UMBC** (GPA 3.9/4.0) · B.Tech, IIIT Jabalpur.
 
-💻 **Focus:** Python, SQL, Spark, Kafka, Airflow, and dbt — building ETL/ELT pipelines and cloud data platforms on **AWS**.
+💻 **Focus:** Python, SQL, Spark, Kafka, Airflow, and dbt — building ETL/ELT pipelines and cloud data platforms on **AWS**, **GCP**, and **Azure**.
 
 🔧 **What I care about:** data quality, observability, cost optimization, and audit-ready pipelines for regulated workloads.
 
-# Tech Stack:
+### Languages :
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44" />
-        <br />Python
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="44" height="44" />
-        <br />SQL
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="44" height="44" />
-        <br />Spark
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="44" height="44" />
-        <br />Kafka
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="44" height="44" />
-        <br />Airflow
-      </td>
-      <td align="center" width="88">
-        <img src="./assets/logos/dbt.svg" alt="dbt" width="44" height="44" />
-        <br />dbt
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="44" height="44" />
-        <br />AWS
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="44" height="44" />
-        <br />GCP
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="44" height="44" />
-        <br />Snowflake
-      </td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /><br />Python</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40" /><br />SQL</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40" height="40" /><br />Scala</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="40" height="40" /><br />Shell</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/streamlit.svg" alt="Streamlit" width="40" height="40" /><br />Streamlit</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /><br />Pandas</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /><br />NumPy</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /><br />scikit-learn</td>
     </tr>
+  </table>
+</div>
+
+### Cloud :
+
+<div align="center">
+  <table>
     <tr>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="44" height="44" />
-        <br />Databricks
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="44" height="44" />
-        <br />Delta Lake
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" height="44" />
-        <br />Docker
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="44" height="44" />
-        <br />Terraform
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44" />
-        <br />Git
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44" />
-        <br />Redis
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="44" height="44" />
-        <br />Pytest
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="44" height="44" />
-        <br />CI/CD
-      </td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" /><br />AWS</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" /><br />GCP</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlebigquery.svg" alt="BigQuery" width="40" height="40" /><br />BigQuery</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /><br />Azure</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonredshift.svg" alt="Redshift" width="40" height="40" /><br />Redshift</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonathena.svg" alt="Athena" width="40" height="40" /><br />Athena</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" alt="Lambda" width="40" height="40" /><br />Lambda</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonkinesis.svg" alt="Kinesis" width="40" height="40" /><br />Kinesis</td>
+    </tr>
+  </table>
+</div>
+
+### Data Storage :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /><br />PostgreSQL</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /><br />MySQL</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="40" height="40" /><br />DynamoDB</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azurecosmosdb.svg" alt="Cosmos DB" width="40" height="40" /><br />Cosmos DB</td>
+      <td align="center" width="80"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="40" height="40" /><br />Snowflake</td>
+      <td align="center" width="80"><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="40" height="40" /><br />Databricks</td>
+      <td align="center" width="80"><img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="40" height="40" /><br />Delta Lake</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" alt="HDFS" width="40" height="40" /><br />HDFS</td>
+    </tr>
+  </table>
+</div>
+
+### Distributed Systems :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" /><br />Spark</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheflink/apacheflink-original.svg" alt="Flink" width="40" height="40" /><br />Flink</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" alt="Hive" width="40" height="40" /><br />Hive</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" /><br />Kafka</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" alt="MapReduce" width="40" height="40" /><br />MapReduce</td>
+    </tr>
+  </table>
+</div>
+
+### ETL & Orchestration :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" /><br />Airflow</td>
+      <td align="center" width="80"><img src="./assets/logos/dbt.svg" alt="dbt" width="40" height="40" /><br />dbt</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dagster.svg" alt="Dagster" width="40" height="40" /><br />Dagster</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark Streaming" width="40" height="40" /><br />Spark Streaming</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/greatexpectations.svg" alt="Great Expectations" width="40" height="40" /><br />Great Expectations</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40" /><br />Pytest</td>
+    </tr>
+  </table>
+</div>
+
+### DevOps & BI :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /><br />Git</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /><br />Docker</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" /><br />Kubernetes</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" /><br />Terraform</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /><br />Jenkins</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" /><br />GitHub Actions</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" alt="Tableau" width="40" height="40" /><br />Tableau</td>
+      <td align="center" width="80"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40" /><br />Power BI</td>
+      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/looker.svg" alt="Looker" width="40" height="40" /><br />Looker</td>
     </tr>
   </table>
 </div>
