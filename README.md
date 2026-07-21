@@ -87,8 +87,10 @@
 
 <table>
 <tr>
-<td align="center" width="150" valign="top">
-<img src="./assets/hotkeys.png" width="120" alt="Hotkeys Solutions" style="background:#ffffff;border-radius:10px;padding:4px;display:block;" />
+<td width="150" valign="middle" align="center">
+<div align="center">
+<img src="./assets/hotkeys.png" width="120" alt="Hotkeys Solutions" style="background:#ffffff;border-radius:10px;padding:4px;" />
+</div>
 </td>
 <td valign="top">
 <b>Data Engineer | Baltimore, MD</b><br>
@@ -106,8 +108,10 @@
 
 <table>
 <tr>
-<td align="center" width="150" valign="top">
-<img src="./assets/capgemini.png" width="120" alt="Capgemini" style="background:#ffffff;border-radius:10px;padding:4px;display:block;" />
+<td width="150" valign="middle" align="center">
+<div align="center">
+<img src="./assets/capgemini.png" width="120" alt="Capgemini" style="background:#ffffff;border-radius:10px;padding:4px;" />
+</div>
 </td>
 <td valign="top">
 <b>Data Engineer | Hyderabad, India</b><br>
@@ -125,8 +129,10 @@
 
 <table>
 <tr>
-<td align="center" width="150" valign="top">
-<img src="./assets/umbc.png" width="120" alt="UMBC" style="background:#ffffff;border-radius:10px;padding:4px;display:block;" />
+<td width="150" valign="middle" align="center">
+<div align="center">
+<img src="./assets/umbc.png" width="120" alt="UMBC" style="background:#ffffff;border-radius:10px;padding:4px;" />
+</div>
 </td>
 <td valign="top">
 <b>Graduate Research Assistant | Baltimore, MD</b><br>
@@ -142,8 +148,10 @@
 
 <table>
 <tr>
-<td align="center" width="150" valign="top">
-<img src="./assets/nit_rourkela.png" width="120" alt="NIT Rourkela" style="background:#ffffff;border-radius:10px;padding:4px;display:block;" />
+<td width="150" valign="middle" align="center">
+<div align="center">
+<img src="./assets/nit_rourkela.png" width="120" alt="NIT Rourkela" style="background:#ffffff;border-radius:10px;padding:4px;" />
+</div>
 </td>
 <td valign="top">
 <b>Data Science & Analytics Engineer | Rourkela, India</b><br>
