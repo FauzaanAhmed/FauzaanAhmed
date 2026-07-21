@@ -10,79 +10,6 @@
 
 🔧 **What I care about:** data quality, observability, cost optimization, and audit-ready pipelines for regulated workloads.
 
-🚀 **Building:** End-to-end portfolio pipelines — [weather-etl-pipeline](https://github.com/FauzaanAhmed/weather-etl-pipeline) & [reddit-etl-pipeline](https://github.com/FauzaanAhmed/reddit-etl-pipeline).
-
-## 💻 Tech Stack:
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" />
-<br>SQL
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="48" height="48" alt="Scala" />
-<br>Scala
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
-<br>Kafka
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" />
-<br>Airflow
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
-<br>GCP
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
-<br>Terraform
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-<br>Pandas
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" height="48" alt="Pytest" />
-<br>Pytest
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
-<br>CI/CD
-</td>
-</tr>
-</table>
-
 ## Work Experience:
 
 <table>
@@ -163,19 +90,247 @@
 </tr>
 </table>
 
-## 🛠 Featured Projects:
+<br>
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [**weather-etl-pipeline**](https://github.com/FauzaanAhmed/weather-etl-pipeline) | Python · Airflow · PostgreSQL · Docker | NOAA ISD ingest, fixed-width parsing, daily + backfill DAGs |
-| [**reddit-etl-pipeline**](https://github.com/FauzaanAhmed/reddit-etl-pipeline) | Python · Airflow · Celery · S3 · Glue | Extract → validate → transform → Hive-partitioned S3 load |
+### Languages :
 
-## 📊 GitHub Stats:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44" />
+        <br />Python
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="44" height="44" />
+        <br />SQL
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="44" height="44" />
+        <br />Scala
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="44" height="44" />
+        <br />Shell
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" />
+        <br />Pandas
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="44" height="44" />
+        <br />NumPy
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="44" height="44" />
+        <br />scikit-learn
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="44" height="44" />
+        <br />Streamlit
+      </td>
+    </tr>
+  </table>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FauzaanAhmed&theme=omni&hide_border=false)
+<br>
 
-## 📫 How to reach me:
+### Cloud :
 
-[![Email](https://img.shields.io/badge/Email-fauzaanmd98@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fauzaanmd98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzaanmd/)
-[![GitHub](https://img.shields.io/badge/GitHub-FauzaanAhmed-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FauzaanAhmed)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="44" height="44" />
+        <br />AWS
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="44" height="44" />
+        <br />GCP
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="44" height="44" />
+        <br />BigQuery
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### Data Storage :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44" />
+        <br />PostgreSQL
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44" />
+        <br />MySQL
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44" />
+        <br />Redis
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="44" height="44" />
+        <br />Snowflake
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="44" height="44" />
+        <br />DynamoDB
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="44" height="44" />
+        <br />Delta Lake
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="44" height="44" />
+        <br />Databricks
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" alt="HDFS" width="44" height="44" />
+        <br />HDFS
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### Distributed Systems :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="44" height="44" />
+        <br />Spark
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="44" height="44" />
+        <br />Kafka
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheflink/apacheflink-original.svg" alt="Flink" width="44" height="44" />
+        <br />Flink
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" alt="Hive" width="44" height="44" />
+        <br />Hive
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### ETL & Orchestration :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="44" height="44" />
+        <br />Airflow
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="44" height="44" />
+        <br />dbt
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/dagster/004044" alt="Dagster" width="44" height="44" />
+        <br />Dagster
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="44" height="44" />
+        <br />Pytest
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### DevOps & BI :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44" />
+        <br />Git
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" height="44" />
+        <br />Docker
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="44" height="44" />
+        <br />Kubernetes
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="44" height="44" />
+        <br />Terraform
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="44" height="44" />
+        <br />GitHub Actions
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="44" height="44" />
+        <br />Power BI
+      </td>
+      <td align="center" width="88">
+        <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker" width="44" height="44" />
+        <br />Looker
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### GitHub Stats :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FauzaanAhmed&show_icons=true&hide_border=false&include_all_commits=true&count_private=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="GitHub Stats" height="195"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzaanAhmed&layout=compact&hide_border=false&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&langs_count=8" alt="Top Languages" height="195"/>
+</p>
+
+<br>
+
+### How to reach me :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <a href="mailto:fauzaanmd98@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="56" height="56" />
+          <br /><b>Email</b>
+          <br />fauzaanmd98@gmail.com
+        </a>
+      </td>
+      <td align="center" width="140">
+        <a href="https://www.linkedin.com/in/fauzaanmd/">
+          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="56" height="56" />
+          <br /><b>LinkedIn</b>
+          <br />fauzaanmd
+        </a>
+      </td>
+      <td align="center" width="140">
+        <a href="https://github.com/FauzaanAhmed">
+          <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="56" height="56" />
+          <br /><b>GitHub</b>
+          <br />FauzaanAhmed
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
