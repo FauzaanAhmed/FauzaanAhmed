@@ -37,9 +37,9 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlebigquery.svg" alt="BigQuery" width="40" height="40" /><br />BigQuery</td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /><br />Azure</td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonredshift.svg" alt="Redshift" width="40" height="40" /><br />Redshift</td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonathena.svg" alt="Athena" width="40" height="40" /><br />Athena</td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" alt="Lambda" width="40" height="40" /><br />Lambda</td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonkinesis.svg" alt="Kinesis" width="40" height="40" /><br />Kinesis</td>
+      <td align="center" width="80"><img src="./assets/logos/amazonathena.svg" alt="Athena" width="40" height="40" /><br />Athena</td>
+      <td align="center" width="80"><img src="./assets/logos/amazon.svg" alt="Lambda" width="40" height="40" /><br />Lambda</td>
+      <td align="center" width="80"><img src="./assets/logos/amazonkinesis.svg" alt="Kinesis" width="40" height="40" /><br />Kinesis</td>
     </tr>
   </table>
 </div>
@@ -52,7 +52,7 @@
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /><br />PostgreSQL</td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /><br />MySQL</td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="40" height="40" /><br />DynamoDB</td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azurecosmosdb.svg" alt="Cosmos DB" width="40" height="40" /><br />Cosmos DB</td>
+      <td align="center" width="80"><img src="./assets/logos/microsoftazure.svg" alt="Cosmos DB" width="40" height="40" /><br />Cosmos DB</td>
       <td align="center" width="80"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="40" height="40" /><br />Snowflake</td>
       <td align="center" width="80"><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="40" height="40" /><br />Databricks</td>
       <td align="center" width="80"><img src="https://cdn.simpleicons.org/delta/003366" alt="Delta Lake" width="40" height="40" /><br />Delta Lake</td>
@@ -82,9 +82,9 @@
     <tr>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" /><br />Airflow</td>
       <td align="center" width="80"><img src="./assets/logos/dbt.svg" alt="dbt" width="40" height="40" /><br />dbt</td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dagster.svg" alt="Dagster" width="40" height="40" /><br />Dagster</td>
+      <td align="center" width="80"><img src="./assets/logos/dagster.svg" alt="Dagster" width="40" height="40" /><br />Dagster</td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark Streaming" width="40" height="40" /><br />Spark Streaming</td>
-      <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/greatexpectations.svg" alt="Great Expectations" width="40" height="40" /><br />Great Expectations</td>
+      <td align="center" width="80"><img src="./assets/logos/gx-mark.svg" alt="Great Expectations" width="40" height="40" /><br />Great Expectations</td>
       <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40" /><br />Pytest</td>
     </tr>
   </table>
